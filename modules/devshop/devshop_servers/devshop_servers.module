@@ -1,0 +1,8 @@
+<?php
+/**
+ * @file
+ * Code for the DevShop Servers feature.
+ */
+
+include_once 'devshop_servers.features.inc';
+

@@ -1,0 +1,8 @@
+name = DevShop Development
+description = Modules needed for devshop development.
+package = Devel
+core = 7.x
+
+dependencies[] = devel
+dependencies[] = field_ui
+
