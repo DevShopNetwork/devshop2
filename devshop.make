@@ -3,6 +3,10 @@ api = 2
 
 projects[drupal][type] = "core"
 
+; Theme
+projects[bootstrap][type] = theme
+projects[bootstrap][version] = 3.x
+
 ; Contrib modules
 projects[admin_menu][subdir] = contrib
 projects[adminrole][subdir] = contrib

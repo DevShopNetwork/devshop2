@@ -47,8 +47,8 @@ function devshop_servers_field_default_field_instances() {
     ),
   );
 
-  // Exported field_instance: 'node-server-field_server_users'
-  $field_instances['node-server-field_server_users'] = array(
+  // Exported field_instance: 'node-server-devshop_server_users'
+  $field_instances['node-server-devshop_server_users'] = array(
     'bundle' => 'server',
     'default_value' => NULL,
     'deleted' => 0,
@@ -71,7 +71,7 @@ function devshop_servers_field_default_field_instances() {
       ),
     ),
     'entity_type' => 'node',
-    'field_name' => 'field_server_users',
+    'field_name' => 'devshop_server_users',
     'label' => 'Server Users',
     'required' => 0,
     'settings' => array(
