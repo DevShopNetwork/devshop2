@@ -53,3 +53,5 @@ projects[token][subdir] = contrib
 projects[unique_field][subdir] = contrib
 projects[views][subdir] = contrib
 ;projects[views_bootstrap][subdir] = contrib
+
+projects[field_ipaddress][subdir] = contrib
