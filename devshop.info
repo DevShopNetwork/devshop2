@@ -1,0 +1,19 @@
+name = DevShop 2
+description = DevShop Front-End
+version = 2.x
+core = 7.x
+
+; Drupal Core
+dependencies[] = block
+dependencies[] = dashboard
+dependencies[] = help
+dependencies[] = list
+dependencies[] = menu
+dependencies[] = number
+dependencies[] = options
+dependencies[] = path
+
+; Drupal Contrib
+dependencies[] = admin_menu
+dependencies[] = adminrole
+dependencies[] = sshkey

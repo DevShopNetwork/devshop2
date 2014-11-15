@@ -1,0 +1,13 @@
+<?php
+
+/**
+* Implements hook_install().
+*
+* Perform actions to set up the site for this profile.
+*
+* @see system_install()
+*/
+function devshop_install() {
+
+
+}
