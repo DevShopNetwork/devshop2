@@ -9,5 +9,8 @@
 */
 function devshop_install() {
 
-
+  // Set Initial variables.
+  variable_set('site_name', t('DevShop'));
+  variable_set('site_slogan', 'IT Infrastructure Manager');
+  variable_set('site_frontpage', 'servers');
 }
