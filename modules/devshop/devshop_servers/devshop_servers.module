@@ -14,7 +14,7 @@ include_once 'devshop_servers.features.inc';
  */
 function devshop_servers_node_presave($node) {
 
-  if (empty($node->devshop_server_ip_addresses[LANGUAGE_NONE])) {
+  if ($node->type == 'server' && empty($node->devshop_server_ip_addresses[LANGUAGE_NONE])) {
     // this returns an array or FALSE
     $ips = gethostbynamel($node->title);
     if ($ips) {
