@@ -5,4 +5,5 @@ core = 7.x
 
 dependencies[] = devel
 dependencies[] = field_ui
+dependencies[] = views_ui
 
