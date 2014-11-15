@@ -36,7 +36,6 @@ projects[libraries][subdir] = contrib
 ;projects[mailchimp][subdir] = contrib
 projects[oauth][subdir] = contrib
 projects[oauthconnector][subdir] = contrib
-projects[oauthconnector_github][subdir] = contrib
 projects[oauthloginprovider][subdir] = contrib
 ;projects[panelizer][subdir] = contrib
 projects[panels][subdir] = contrib
