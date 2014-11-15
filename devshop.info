@@ -18,6 +18,7 @@ dependencies[] = admin_menu
 dependencies[] = admin_menu_toolbar
 dependencies[] = adminrole
 dependencies[] = features
+dependencies[] = jquery_update
 
 ; DevShop Features
 dependencies[] = devshop_servers
