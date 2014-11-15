@@ -37,7 +37,7 @@ function devshop_servers_field_default_field_bases() {
   // Exported field_base: 'devshop_server_users'
   $field_bases['devshop_server_users'] = array(
     'active' => 1,
-    'cardinality' => 1,
+    'cardinality' => -1,
     'deleted' => 0,
     'entity_types' => array(),
     'field_name' => 'devshop_server_users',

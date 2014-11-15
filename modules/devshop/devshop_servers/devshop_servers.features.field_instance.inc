@@ -42,7 +42,7 @@ function devshop_servers_field_default_field_instances() {
       'active' => 0,
       'module' => 'field_ipaddress',
       'settings' => array(),
-      'type' => 'field_ipaddress_cidr',
+      'type' => 'field_ipaddress_shorthand',
       'weight' => -4,
     ),
   );
